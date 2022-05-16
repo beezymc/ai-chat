@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React App Template
+React app template with Material UI layout and icon functionality preinstalled.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
