@@ -5,7 +5,7 @@ This is an application which allows users to chat with an artificial intelligenc
 
 ## Downloading This App for Your Own Use
 In order to clone this app, be sure to:
-1. Clone the app using 'git clone ${this repository's url}'
+1. Fork and clone the app using 'git clone ${your forked repository's url}'
 2. npm install any dependencies
 3. Create a .env file in the root directory
 4. Add the key label and your own OpenAI api key like so: REACT_APP_OPENAI_API_KEY="your key here"
